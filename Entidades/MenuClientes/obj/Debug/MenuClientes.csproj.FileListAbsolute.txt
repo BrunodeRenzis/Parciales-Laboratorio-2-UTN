@@ -1,0 +1,13 @@
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuClientes\bin\Debug\MenuClientes.exe.config
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuClientes\bin\Debug\MenuClientes.exe
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuClientes\bin\Debug\MenuClientes.pdb
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuClientes\bin\Debug\Entidades.dll
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuClientes\bin\Debug\Entidades.pdb
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuClientes\obj\Debug\MenuClientes.FormClientes.resources
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuClientes\obj\Debug\MenuClientes.Properties.Resources.resources
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuClientes\obj\Debug\MenuClientes.csproj.GenerateResource.cache
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuClientes\obj\Debug\MenuClientes.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuClientes\obj\Debug\MenuClientes.csproj.CopyComplete
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuClientes\obj\Debug\MenuClientes.exe
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuClientes\obj\Debug\MenuClientes.pdb
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuClientes\obj\Debug\MenuClientes.csprojAssemblyReference.cache

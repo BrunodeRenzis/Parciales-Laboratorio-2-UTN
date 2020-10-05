@@ -1,0 +1,5 @@
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\FormVentas\obj\Debug\MenuVentas.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\FormVentas\obj\Debug\MenuVentas.FormVentas.resources
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\FormVentas\obj\Debug\FormVentas.Properties.Resources.resources
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\FormVentas\obj\Debug\MenuVentas.csproj.GenerateResource.cache
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\FormVentas\obj\Debug\MenuVentas.csproj.CoreCompileInputs.cache

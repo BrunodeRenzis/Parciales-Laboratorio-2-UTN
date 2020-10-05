@@ -1,0 +1,16 @@
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuProductos\bin\Debug\MenuProductos.exe.config
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuProductos\bin\Debug\MenuProductos.exe
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuProductos\bin\Debug\MenuProductos.pdb
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuProductos\obj\Debug\MenuProductos.FormProductos.resources
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuProductos\obj\Debug\MenuProductos.Properties.Resources.resources
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuProductos\obj\Debug\MenuProductos.csproj.GenerateResource.cache
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuProductos\obj\Debug\MenuProductos.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuProductos\obj\Debug\MenuProductos.exe
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuProductos\obj\Debug\MenuProductos.pdb
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuProductos\obj\Debug\MenuProductos.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuProductos\bin\Debug\Entidades.dll
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuProductos\bin\Debug\Entidades.pdb
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuProductos\obj\Debug\MenuProductos.csproj.CopyComplete
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuProductos\bin\Debug\FormAgregar.exe
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuProductos\bin\Debug\FormAgregar.pdb
+C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuProductos\bin\Debug\FormAgregar.exe.config
