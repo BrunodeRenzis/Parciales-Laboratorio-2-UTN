@@ -12,6 +12,7 @@ namespace Entidades
         public static List<Cliente> listaClientes;
         public static List<Empleado> listaEmpleados;
         public static List<Venta> listaVentas;
+        public static List<VentaCliente> ticketVenta;
         public static Dictionary<string, string> loginEmpleado;
         public static Empleado empleadoLogueado;
 
@@ -25,9 +26,13 @@ namespace Entidades
         }
 
         
-        public static void IngresarProductos(string descripcion, double precio, int stock)
+        public static void IngresarProductosPerecederos(string descripcion, double precio, int stock,Producto.tipoProductos tipo,string fecha)
         {
-            listaProductos.Add(new Producto(descripcion,precio,stock));
+            listaProductos.Add(new ProductoPerecedero(descripcion,precio,stock,tipo,fecha));
+        } 
+        public static void IngresarProductosNoPerecederos(string descripcion, double precio, int stock,Producto.tipoProductos tipoProductos)
+        {
+            listaProductos.Add(new ProductoNoPerecedero(descripcion,precio,stock,tipoProductos));
         }
 
         public static void HarcodearUsuario()
@@ -75,6 +80,30 @@ namespace Entidades
             return auxProductos;
         }
 
+        public static List<Producto> ProductosPerecederos()
+        {
+            List<Producto> auxListaProductos = new List<Producto>();
+            for(int i=0;i<listaProductos.Count;i++)
+            {
+                if(listaProductos[i].TipoProducto == Producto.tipoProductos.perecedero)
+                auxListaProductos.Add(listaProductos[i]);
+            }
+
+            return auxListaProductos;
+
+        } 
+        public static List<Producto> ProductosNoPerecederos()
+        {
+            List<Producto> auxListaProductos = new List<Producto>();
+            for(int i=0;i<listaProductos.Count;i++)
+            {
+                if(listaProductos[i].TipoProducto == Producto.tipoProductos.noPerecedero)
+                auxListaProductos.Add(listaProductos[i]);
+            }
+
+            return auxListaProductos;
+
+        }
        
 
         public static int StockAutomatico()
@@ -104,10 +133,11 @@ namespace Entidades
             
             int[] idEmpleados = new int[2] { 1, 2 };
             int[] dniEmpleados = new int[2] { 23323232, 34545454 };
-            string[] descripcion = new string[30] { "Tarta de luna", "Billete de lotería", "Raspado fresa", "Raspado Café", "Raspado Uva", "Chicle El granjero Joe", "Duff",
-            "Duff free alcohol", "Lápida","testamento", "Donas", "Salchichas de alga", "Cereal Krusty'O", "Helado Café", "Colorante Azul Para Cabello", "Cigarrillos Laramie", "Azucar del granjero homero",
-            "Buzz Cola", "Petardos Ilegales", "Condones", "Patatas fritas que provocan diarrea's", "Tarjeta San Valentín Monos", "Leche expirada en 1961", "Jamón Caido al piso", "6 kilos de langostino", "Dedos de manteca", "Salchichas llenas de grasa", "Chupelupe",
-            "Tocino","Armas" };
+            string[] descripcionNoPerecederos = new string[8] { "Billete de lotería", "Armas", "Lápida", "testamento", "Colorante Azul Para Cabello", "Tarjeta San Valentín Monos", "Azucar del granjero homero", "Cigarrillos Laramie" };
+            string[] descripcionPerecederos = new string[22] {"Raspado fresa", "Raspado Café", "Raspado Uva", "Chicle El granjero Joe",  "Tarta de luna", "Duff",
+            "Duff free alcohol", "Donas", "Salchichas de alga", "Cereal Krusty'O", "Helado Café",  
+            "Buzz Cola", "Petardos Ilegales", "Condones", "Patatas fritas que provocan diarrea's", "Leche expirada en 1961", "Jamón Caido al piso", "6 kilos de langostino", "Dedos de manteca", "Salchichas llenas de grasa", "Chupelupe",
+            "Tocino" };
 
             string[] nombreClientes = new string[10] {"Homero","Marge","Ned","Krusty","Fat","Bart", "Milhouse","Abe","Nelson","Jimbo"}; 
             string[] apellidoClientes = new string[10] {"Simpson","Bouvier","Flanders","The Clown","Tony","Simpson", "Mussolini Vanhouten","Simpson","Ruffino","Jones"};
@@ -123,9 +153,13 @@ namespace Entidades
                 listaClientes.Add(new Cliente(nombreClientes[i], apellidoClientes[i], dniClientes[i]));
             }
 
-            foreach (var item in descripcion)
+            foreach (var item in descripcionNoPerecederos)
             {
-                listaProductos.Add(new Producto(item,PrecioAutomatico(),StockAutomatico()));
+                listaProductos.Add(new ProductoNoPerecedero(item,PrecioAutomatico(),StockAutomatico(), Producto.tipoProductos.noPerecedero));
+            }
+            foreach (var item in descripcionPerecederos)
+            {
+                listaProductos.Add(new ProductoPerecedero(item, PrecioAutomatico(), StockAutomatico(), Producto.tipoProductos.perecedero, "15-oct"));
             }
 
         }

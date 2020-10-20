@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-#pragma warning disable CS0660
-#pragma warning disable CS0661
-    public class Producto
+
+    public abstract class Producto
     {
-        string descripcion;
-        int idProducto;
-        double precio;
-        int stock;
-        static int idAutomatico = 0;
+        protected string descripcion;
+        protected int idProducto;
+        protected double precio;
+        protected int stock;
+        protected tipoProductos tipoProducto;
+        protected static int idAutomatico = 0;
         private Producto()
         {
             this.descripcion = "sin descripcion";
@@ -24,26 +24,43 @@ namespace Entidades
             this.idProducto = idAutomatico;
         }
 
-        public Producto(string descripcion, double precio, int stock) : this()
+        public enum tipoProductos
+        {
+            perecedero,
+            noPerecedero
+        }
+
+        public Producto(string descripcion, double precio, int stock,tipoProductos tipoProducto) : this()
         {
             this.descripcion = descripcion;
             this.precio = precio;
             this.stock = stock;
+            this.tipoProducto = tipoProducto;
         }
 
         public static bool operator +(List<Producto> listaProductos, Producto auxProducto)
         {
-            int cantidad = 0;
-            for (int i = 0; i < listaProductos.Count; i++)
+            bool retorno = false;
+
+            if (listaProductos != auxProducto)
             {
-                if (listaProductos[i].idProducto == auxProducto.idProducto)
+                listaProductos.Add(auxProducto);
+                retorno = true;
+
+            }
+            else
+            {
+                for (int i = 0; i < listaProductos.Count; i++)
                 {
-                    auxProducto.stock = auxProducto.Stock - cantidad;
-                    return true;
+                    if (listaProductos[i].idProducto == auxProducto.idProducto)
+                    {
+                        listaProductos[i].stock = auxProducto.Stock;
+
+                    }
                 }
             }
 
-            return false;
+            return retorno;
         }
 
         public static bool operator ==(List<Producto> listaProductos, Producto auxProducto)
@@ -68,6 +85,7 @@ namespace Entidades
         public int Stock
         {
             get { return this.stock; }
+            set { this.stock = value; }
         }
 
         public int IdProducto
@@ -85,13 +103,18 @@ namespace Entidades
             get { return this.precio; }
         }
 
+        public tipoProductos TipoProducto
+        {
+            get { return this.tipoProducto; }
+        }
+
         public virtual string Mostrar()
         {
             StringBuilder stringBuilder = new StringBuilder();
 
             stringBuilder.AppendLine($"Descripcion: {this.descripcion}");
-            stringBuilder.AppendLine($"ID Producto: {this.idProducto.ToString()}");
-            stringBuilder.AppendLine($"Stock: {this.stock.ToString()}");
+            stringBuilder.AppendLine($"ID Producto: {this.idProducto}");
+            stringBuilder.AppendLine($"Stock: {this.stock}");
             stringBuilder.AppendLine(String.Format("Precio: ${0: #,###.00}", this.precio));
 
             return stringBuilder.ToString();

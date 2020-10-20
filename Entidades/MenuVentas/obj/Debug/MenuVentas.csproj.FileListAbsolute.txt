@@ -11,3 +11,16 @@ C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuVentas\obj\Debug\MenuVentas.
 C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuVentas\obj\Debug\MenuVentas.csproj.CopyComplete
 C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuVentas\obj\Debug\MenuVentas.exe
 C:\Users\Bruno\source\repos\1 Parcial\Entidades\MenuVentas\obj\Debug\MenuVentas.pdb
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\MenuVentas\bin\Debug\MenuVentas.exe.config
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\MenuVentas\bin\Debug\MenuVentas.exe
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\MenuVentas\bin\Debug\MenuVentas.pdb
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\MenuVentas\bin\Debug\Entidades.dll
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\MenuVentas\bin\Debug\Entidades.pdb
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\MenuVentas\obj\Debug\MenuVentas.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\MenuVentas\obj\Debug\MenuVentas.FormVentas.resources
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\MenuVentas\obj\Debug\MenuVentas.Properties.Resources.resources
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\MenuVentas\obj\Debug\MenuVentas.csproj.GenerateResource.cache
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\MenuVentas\obj\Debug\MenuVentas.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\MenuVentas\obj\Debug\MenuVentas.csproj.CopyComplete
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\MenuVentas\obj\Debug\MenuVentas.exe
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\MenuVentas\obj\Debug\MenuVentas.pdb

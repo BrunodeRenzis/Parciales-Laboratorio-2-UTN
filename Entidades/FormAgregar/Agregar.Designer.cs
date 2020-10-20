@@ -35,6 +35,8 @@
             this.txtBoxCantidad = new System.Windows.Forms.TextBox();
             this.txtBoxPrecio = new System.Windows.Forms.TextBox();
             this.btnAceptar = new System.Windows.Forms.Button();
+            this.cmbBoxTipo = new System.Windows.Forms.ComboBox();
+            this.lblTipo = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lblNombre
@@ -95,7 +97,7 @@
             // btnAceptar
             // 
             this.btnAceptar.BackColor = System.Drawing.Color.Yellow;
-            this.btnAceptar.Location = new System.Drawing.Point(95, 268);
+            this.btnAceptar.Location = new System.Drawing.Point(95, 308);
             this.btnAceptar.Name = "btnAceptar";
             this.btnAceptar.Size = new System.Drawing.Size(113, 40);
             this.btnAceptar.TabIndex = 6;
@@ -103,12 +105,32 @@
             this.btnAceptar.UseVisualStyleBackColor = false;
             this.btnAceptar.Click += new System.EventHandler(this.btnAceptar_Click);
             // 
+            // cmbBoxTipo
+            // 
+            this.cmbBoxTipo.FormattingEnabled = true;
+            this.cmbBoxTipo.Location = new System.Drawing.Point(166, 249);
+            this.cmbBoxTipo.Name = "cmbBoxTipo";
+            this.cmbBoxTipo.Size = new System.Drawing.Size(144, 28);
+            this.cmbBoxTipo.TabIndex = 7;
+            this.cmbBoxTipo.SelectedIndexChanged += new System.EventHandler(this.cmbBoxTipo_SelectedIndexChanged);
+            // 
+            // lblTipo
+            // 
+            this.lblTipo.AutoSize = true;
+            this.lblTipo.Location = new System.Drawing.Point(12, 252);
+            this.lblTipo.Name = "lblTipo";
+            this.lblTipo.Size = new System.Drawing.Size(106, 20);
+            this.lblTipo.TabIndex = 8;
+            this.lblTipo.Text = "Tipo producto";
+            // 
             // Agregar
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Chartreuse;
             this.ClientSize = new System.Drawing.Size(329, 379);
+            this.Controls.Add(this.lblTipo);
+            this.Controls.Add(this.cmbBoxTipo);
             this.Controls.Add(this.btnAceptar);
             this.Controls.Add(this.txtBoxPrecio);
             this.Controls.Add(this.txtBoxCantidad);
@@ -136,6 +158,8 @@
         private System.Windows.Forms.TextBox txtBoxCantidad;
         private System.Windows.Forms.TextBox txtBoxPrecio;
         private System.Windows.Forms.Button btnAceptar;
+        private System.Windows.Forms.ComboBox cmbBoxTipo;
+        private System.Windows.Forms.Label lblTipo;
     }
 }
 

@@ -28,74 +28,22 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.txtboxNombre = new System.Windows.Forms.TextBox();
-            this.boxProducto = new System.Windows.Forms.ComboBox();
-            this.txtboxApellido = new System.Windows.Forms.TextBox();
-            this.lblNombre = new System.Windows.Forms.Label();
-            this.lblApellido = new System.Windows.Forms.Label();
-            this.lblProducto = new System.Windows.Forms.Label();
             this.btnVenta = new System.Windows.Forms.Button();
             this.btnAgregar = new System.Windows.Forms.Button();
             this.btnLimpiar = new System.Windows.Forms.Button();
-            this.lblCantida = new System.Windows.Forms.Label();
-            this.txtboxCantidad = new System.Windows.Forms.TextBox();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.dataGridView2 = new System.Windows.Forms.DataGridView();
+            this.TxtBoxCanditad = new System.Windows.Forms.TextBox();
+            this.LblCantidad = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
             this.SuspendLayout();
-            // 
-            // txtboxNombre
-            // 
-            this.txtboxNombre.Location = new System.Drawing.Point(91, 4);
-            this.txtboxNombre.Name = "txtboxNombre";
-            this.txtboxNombre.Size = new System.Drawing.Size(177, 26);
-            this.txtboxNombre.TabIndex = 0;
-            // 
-            // boxProducto
-            // 
-            this.boxProducto.FormattingEnabled = true;
-            this.boxProducto.Location = new System.Drawing.Point(91, 105);
-            this.boxProducto.Name = "boxProducto";
-            this.boxProducto.Size = new System.Drawing.Size(177, 28);
-            this.boxProducto.TabIndex = 1;
-            this.boxProducto.SelectedIndexChanged += new System.EventHandler(this.boxProducto_SelectedIndexChanged);
-            // 
-            // txtboxApellido
-            // 
-            this.txtboxApellido.Location = new System.Drawing.Point(91, 53);
-            this.txtboxApellido.Name = "txtboxApellido";
-            this.txtboxApellido.Size = new System.Drawing.Size(177, 26);
-            this.txtboxApellido.TabIndex = 2;
-            // 
-            // lblNombre
-            // 
-            this.lblNombre.AutoSize = true;
-            this.lblNombre.Location = new System.Drawing.Point(12, 7);
-            this.lblNombre.Name = "lblNombre";
-            this.lblNombre.Size = new System.Drawing.Size(65, 20);
-            this.lblNombre.TabIndex = 3;
-            this.lblNombre.Text = "Nombre";
-            // 
-            // lblApellido
-            // 
-            this.lblApellido.AutoSize = true;
-            this.lblApellido.Location = new System.Drawing.Point(12, 56);
-            this.lblApellido.Name = "lblApellido";
-            this.lblApellido.Size = new System.Drawing.Size(65, 20);
-            this.lblApellido.TabIndex = 4;
-            this.lblApellido.Text = "Apellido";
-            // 
-            // lblProducto
-            // 
-            this.lblProducto.AutoSize = true;
-            this.lblProducto.Location = new System.Drawing.Point(12, 108);
-            this.lblProducto.Name = "lblProducto";
-            this.lblProducto.Size = new System.Drawing.Size(73, 20);
-            this.lblProducto.TabIndex = 5;
-            this.lblProducto.Text = "Producto";
             // 
             // btnVenta
             // 
-            this.btnVenta.Location = new System.Drawing.Point(136, 214);
+            this.btnVenta.Location = new System.Drawing.Point(132, 401);
             this.btnVenta.Name = "btnVenta";
-            this.btnVenta.Size = new System.Drawing.Size(95, 39);
+            this.btnVenta.Size = new System.Drawing.Size(87, 51);
             this.btnVenta.TabIndex = 6;
             this.btnVenta.Text = "Aceptar";
             this.btnVenta.UseVisualStyleBackColor = true;
@@ -103,58 +51,78 @@
             // 
             // btnAgregar
             // 
-            this.btnAgregar.Location = new System.Drawing.Point(16, 214);
+            this.btnAgregar.Location = new System.Drawing.Point(12, 401);
             this.btnAgregar.Name = "btnAgregar";
-            this.btnAgregar.Size = new System.Drawing.Size(95, 39);
+            this.btnAgregar.Size = new System.Drawing.Size(93, 51);
             this.btnAgregar.TabIndex = 7;
-            this.btnAgregar.Text = "Agregar";
+            this.btnAgregar.Text = "Agregar Productos";
             this.btnAgregar.UseVisualStyleBackColor = true;
             this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
             // 
             // btnLimpiar
             // 
-            this.btnLimpiar.Location = new System.Drawing.Point(259, 214);
+            this.btnLimpiar.Location = new System.Drawing.Point(255, 401);
             this.btnLimpiar.Name = "btnLimpiar";
-            this.btnLimpiar.Size = new System.Drawing.Size(95, 39);
+            this.btnLimpiar.Size = new System.Drawing.Size(106, 51);
             this.btnLimpiar.TabIndex = 8;
             this.btnLimpiar.Text = "Limpiar";
             this.btnLimpiar.UseVisualStyleBackColor = true;
-            this.btnLimpiar.Click += new System.EventHandler(this.btnLimpiar_Click);
             // 
-            // lblCantida
+            // dataGridView1
             // 
-            this.lblCantida.AutoSize = true;
-            this.lblCantida.Location = new System.Drawing.Point(12, 159);
-            this.lblCantida.Name = "lblCantida";
-            this.lblCantida.Size = new System.Drawing.Size(73, 20);
-            this.lblCantida.TabIndex = 9;
-            this.lblCantida.Text = "Cantidad";
+            this.dataGridView1.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(3, 50);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowHeadersWidth = 62;
+            this.dataGridView1.RowTemplate.Height = 28;
+            this.dataGridView1.Size = new System.Drawing.Size(589, 345);
+            this.dataGridView1.TabIndex = 9;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
-            // txtboxCantidad
+            // dataGridView2
             // 
-            this.txtboxCantidad.Location = new System.Drawing.Point(91, 159);
-            this.txtboxCantidad.Name = "txtboxCantidad";
-            this.txtboxCantidad.Size = new System.Drawing.Size(177, 26);
-            this.txtboxCantidad.TabIndex = 10;
-            this.txtboxCantidad.TextChanged += new System.EventHandler(this.txtboxCantidad_TextChanged);
+            this.dataGridView2.BackgroundColor = System.Drawing.Color.Khaki;
+            this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView2.Location = new System.Drawing.Point(620, 3);
+            this.dataGridView2.Name = "dataGridView2";
+            this.dataGridView2.RowHeadersWidth = 62;
+            this.dataGridView2.RowTemplate.Height = 28;
+            this.dataGridView2.Size = new System.Drawing.Size(240, 345);
+            this.dataGridView2.TabIndex = 10;
+            this.dataGridView2.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView2_CellContentClick);
+            // 
+            // TxtBoxCanditad
+            // 
+            this.TxtBoxCanditad.Location = new System.Drawing.Point(440, 12);
+            this.TxtBoxCanditad.Name = "TxtBoxCanditad";
+            this.TxtBoxCanditad.Size = new System.Drawing.Size(152, 26);
+            this.TxtBoxCanditad.TabIndex = 11;
+            // 
+            // LblCantidad
+            // 
+            this.LblCantidad.AutoSize = true;
+            this.LblCantidad.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.LblCantidad.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.LblCantidad.Location = new System.Drawing.Point(345, 15);
+            this.LblCantidad.Name = "LblCantidad";
+            this.LblCantidad.Size = new System.Drawing.Size(73, 20);
+            this.LblCantidad.TabIndex = 12;
+            this.LblCantidad.Text = "Cantidad";
             // 
             // FormVentas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ClientSize = new System.Drawing.Size(377, 428);
-            this.Controls.Add(this.txtboxCantidad);
-            this.Controls.Add(this.lblCantida);
+            this.ClientSize = new System.Drawing.Size(872, 615);
+            this.Controls.Add(this.LblCantidad);
+            this.Controls.Add(this.TxtBoxCanditad);
+            this.Controls.Add(this.dataGridView2);
             this.Controls.Add(this.btnLimpiar);
             this.Controls.Add(this.btnAgregar);
             this.Controls.Add(this.btnVenta);
-            this.Controls.Add(this.lblProducto);
-            this.Controls.Add(this.lblApellido);
-            this.Controls.Add(this.lblNombre);
-            this.Controls.Add(this.txtboxApellido);
-            this.Controls.Add(this.boxProducto);
-            this.Controls.Add(this.txtboxNombre);
+            this.Controls.Add(this.dataGridView1);
             this.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
@@ -162,24 +130,21 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Ventas";
             this.Load += new System.EventHandler(this.FormVentas_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.TextBox txtboxNombre;
-        private System.Windows.Forms.ComboBox boxProducto;
-        private System.Windows.Forms.TextBox txtboxApellido;
-        private System.Windows.Forms.Label lblNombre;
-        private System.Windows.Forms.Label lblApellido;
-        private System.Windows.Forms.Label lblProducto;
         private System.Windows.Forms.Button btnVenta;
         private System.Windows.Forms.Button btnAgregar;
         private System.Windows.Forms.Button btnLimpiar;
-        private System.Windows.Forms.Label lblCantida;
-        private System.Windows.Forms.TextBox txtboxCantidad;
+        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridView dataGridView2;
+        private System.Windows.Forms.TextBox TxtBoxCanditad;
+        private System.Windows.Forms.Label LblCantidad;
     }
 }
 

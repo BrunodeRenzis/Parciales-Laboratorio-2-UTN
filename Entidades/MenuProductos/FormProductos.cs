@@ -11,7 +11,7 @@ using Entidades;
 using FormAgregar;
 namespace MenuProductos
 {
-    
+   
     public partial class FormProductos : Form
     {
 
@@ -76,6 +76,18 @@ namespace MenuProductos
         private void verToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void productosPerecederosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.dtgvProductos.DataSource = null;
+            this.dtgvProductos.DataSource = KwikEMart.ProductosPerecederos();
+        }
+
+        private void productosNoPerecederosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.dtgvProductos.DataSource = null;
+            this.dtgvProductos.DataSource= KwikEMart.ProductosNoPerecederos();
         }
     }
 }

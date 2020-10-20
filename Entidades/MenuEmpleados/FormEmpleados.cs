@@ -55,5 +55,10 @@ namespace MenuEmpleados
         {
 
         }
+
+        private void txtboxContraseña_TextChanged(object sender, EventArgs e)
+        {
+            txtboxContraseña.PasswordChar = '*';
+        }
     }
 }

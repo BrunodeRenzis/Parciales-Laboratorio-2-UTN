@@ -11,3 +11,16 @@ C:\Users\Bruno\source\repos\1 Parcial\Entidades\FormAgregar\obj\Debug\FormAgrega
 C:\Users\Bruno\source\repos\1 Parcial\Entidades\FormAgregar\obj\Debug\FormAgregar.csproj.CopyComplete
 C:\Users\Bruno\source\repos\1 Parcial\Entidades\FormAgregar\obj\Debug\FormAgregar.exe
 C:\Users\Bruno\source\repos\1 Parcial\Entidades\FormAgregar\obj\Debug\FormAgregar.pdb
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\FormAgregar\bin\Debug\FormAgregar.exe.config
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\FormAgregar\bin\Debug\FormAgregar.exe
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\FormAgregar\bin\Debug\FormAgregar.pdb
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\FormAgregar\bin\Debug\Entidades.dll
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\FormAgregar\bin\Debug\Entidades.pdb
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\FormAgregar\obj\Debug\FormAgregar.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\FormAgregar\obj\Debug\FormAgregar.Agregar.resources
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\FormAgregar\obj\Debug\FormAgregar.Properties.Resources.resources
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\FormAgregar\obj\Debug\FormAgregar.csproj.GenerateResource.cache
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\FormAgregar\obj\Debug\FormAgregar.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\FormAgregar\obj\Debug\FormAgregar.csproj.CopyComplete
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\FormAgregar\obj\Debug\FormAgregar.exe
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\FormAgregar\obj\Debug\FormAgregar.pdb

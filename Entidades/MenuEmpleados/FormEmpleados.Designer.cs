@@ -66,6 +66,7 @@
             this.txtboxContraseña.Name = "txtboxContraseña";
             this.txtboxContraseña.Size = new System.Drawing.Size(211, 26);
             this.txtboxContraseña.TabIndex = 3;
+            this.txtboxContraseña.TextChanged += new System.EventHandler(this.txtboxContraseña_TextChanged);
             // 
             // lblContraseña
             // 

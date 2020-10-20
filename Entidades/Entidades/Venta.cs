@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public class Venta
+    public abstract class Venta
     {
-        Cliente comprador;
-        double montoTotal;
-        List<Venta> listaVenta;
-        Empleado empleado;
-        int numeroTicket;
-        static int ticket=0;
+        protected Cliente comprador;
+        protected double montoTotal;
+        protected List<Venta> listaVenta;
+        protected Empleado empleado;
+        protected int numeroTicket;
+        protected static int ticket=1;
 
         public Venta()
         {
@@ -21,13 +21,19 @@ namespace Entidades
             ticket++;
         }
 
-        public Venta(Empleado vendedor, Cliente comprador, double montoTotal,Empleado empleado): this()
+        public Venta(Empleado vendedor, Cliente comprador, double montoTotal): this()
         {
             this.comprador = comprador;
-            this.empleado = empleado;
+            this.empleado = vendedor;
             this.montoTotal = montoTotal;
             this.numeroTicket = ticket;
         }
+
+        public List <Venta> ListaVenta
+        {
+            get { return this.listaVenta; }
+        }
+
 
     }
 }

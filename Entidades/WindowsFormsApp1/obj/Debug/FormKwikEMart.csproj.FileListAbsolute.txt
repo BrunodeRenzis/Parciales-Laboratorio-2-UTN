@@ -26,3 +26,31 @@ C:\Users\Bruno\source\repos\1 Parcial\Entidades\WindowsFormsApp1\bin\Debug\MenuE
 C:\Users\Bruno\source\repos\1 Parcial\Entidades\WindowsFormsApp1\bin\Debug\FormAgregar.exe
 C:\Users\Bruno\source\repos\1 Parcial\Entidades\WindowsFormsApp1\bin\Debug\FormAgregar.pdb
 C:\Users\Bruno\source\repos\1 Parcial\Entidades\WindowsFormsApp1\bin\Debug\FormAgregar.exe.config
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\bin\Debug\Entidades.dll
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\bin\Debug\FormAgregar.exe
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\bin\Debug\MenuClientes.exe
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\bin\Debug\MenuEmpleados.exe
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\bin\Debug\MenuProductos.exe
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\bin\Debug\MenuVentas.exe
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\bin\Debug\Entidades.pdb
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\bin\Debug\FormAgregar.pdb
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\bin\Debug\FormAgregar.exe.config
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\bin\Debug\MenuClientes.pdb
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\bin\Debug\MenuClientes.exe.config
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\bin\Debug\MenuEmpleados.pdb
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\bin\Debug\MenuEmpleados.exe.config
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\bin\Debug\MenuProductos.pdb
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\bin\Debug\MenuProductos.exe.config
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\bin\Debug\MenuVentas.pdb
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\bin\Debug\MenuVentas.exe.config
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\obj\Debug\FormKwikEMart.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormKwikEMart.resources
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\obj\Debug\FormKwikEMart.csproj.GenerateResource.cache
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\obj\Debug\FormKwikEMart.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\obj\Debug\FormKwikEMart.csproj.CopyComplete
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Bruno\source\repos\1 Parcial copia a editar\Entidades\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
