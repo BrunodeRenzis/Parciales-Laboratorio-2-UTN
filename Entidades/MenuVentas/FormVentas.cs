@@ -77,11 +77,11 @@ namespace MenuVentas
             double montoTotal=0;
             string desc;
             int idProd;
-            int cant = int.Parse(this.TxtBoxCanditad.Text);
+            int cant = int.Parse(TxtBoxCanditad.Text);
 
             desc = (string)dataGridView1.CurrentRow.Cells["Descripcion"].Value;
             monto = (double)dataGridView1.CurrentRow.Cells["Precio"].Value;
-            idProd = (int)dataGridView1.CurrentRow.Cells["Id"].Value;
+            idProd = (int)dataGridView1.CurrentRow.Cells["IdProducto"].Value;
             if (cant>0)
             {
                 MessageBox.Show("Agregado","KwikEMart");
