@@ -1,0 +1,10 @@
+C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\VentasForm\bin\Debug\VentasForm.exe.config
+C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\VentasForm\bin\Debug\VentasForm.exe
+C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\VentasForm\bin\Debug\VentasForm.pdb
+C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\VentasForm\obj\Debug\VentasForm.csprojAssemblyReference.cache
+C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\VentasForm\obj\Debug\VentasForm.FormVentas.resources
+C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\VentasForm\obj\Debug\VentasForm.Properties.Resources.resources
+C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\VentasForm\obj\Debug\VentasForm.csproj.GenerateResource.cache
+C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\VentasForm\obj\Debug\VentasForm.csproj.CoreCompileInputs.cache
+C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\VentasForm\obj\Debug\VentasForm.exe
+C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\VentasForm\obj\Debug\VentasForm.pdb

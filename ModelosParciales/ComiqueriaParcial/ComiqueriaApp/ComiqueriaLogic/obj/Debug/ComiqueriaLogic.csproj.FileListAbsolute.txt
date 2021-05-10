@@ -1,0 +1,6 @@
+C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csprojAssemblyReference.cache
+C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb
