@@ -29,6 +29,7 @@ namespace PrimerParcialBrunoDeRenzis
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmBuscador));
             this.txtBoxNombre = new System.Windows.Forms.TextBox();
             this.lblNombre = new System.Windows.Forms.Label();
             this.btnBuscar = new System.Windows.Forms.Button();
@@ -80,6 +81,7 @@ namespace PrimerParcialBrunoDeRenzis
             this.Controls.Add(this.btnBuscar);
             this.Controls.Add(this.lblNombre);
             this.Controls.Add(this.txtBoxNombre);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmBuscador";
             this.Text = "FrmBuscador";
             this.ResumeLayout(false);

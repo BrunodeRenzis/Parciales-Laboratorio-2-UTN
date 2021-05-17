@@ -32,7 +32,7 @@ namespace PrimerParcialBrunoDeRenzis
             Marvel.Personaje = new Avenger("AnthonyStark", new List<Marvel.EHabilidades>() { Marvel.EHabilidades.InteligenciaSuperior }, Marvel.EEquipamiento.Armadura); 
             Marvel.Personaje = new Avenger("Dr Banner", new List<Marvel.EHabilidades>() { Marvel.EHabilidades.InteligenciaSuperior }, Marvel.EEquipamiento.Transformacion); 
             Marvel.Personaje = new Avenger("Dr Banner", new List<Marvel.EHabilidades>() { Marvel.EHabilidades.InteligenciaSuperior }, Marvel.EEquipamiento.Transformacion); 
-            Marvel.Personaje = new Avenger("NatashaRomanoff ", new List<Marvel.EHabilidades>() { Marvel.EHabilidades.Sigilio, Marvel.EHabilidades.Astucia }, Marvel.EEquipamiento.ArtesMarciales);
+            Marvel.Personaje = new Avenger("NatashaRomanoff ", new List<Marvel.EHabilidades>() { Marvel.EHabilidades.Sigilio, Marvel.EHabilidades.Astucia,Marvel.EHabilidades.EstarBuenisima }, Marvel.EEquipamiento.ArtesMarciales);
             Marvel.Personaje = new Avenger("Thor", new List<Marvel.EHabilidades>() { Marvel.EHabilidades.Rayos, Marvel.EHabilidades.Volar }, Marvel.EEquipamiento.Martillo);
             Marvel.Personaje = new Avenger("Thor", new List<Marvel.EHabilidades>() { Marvel.EHabilidades.Rayos, Marvel.EHabilidades.Volar }, Marvel.EEquipamiento.Martillo);
 

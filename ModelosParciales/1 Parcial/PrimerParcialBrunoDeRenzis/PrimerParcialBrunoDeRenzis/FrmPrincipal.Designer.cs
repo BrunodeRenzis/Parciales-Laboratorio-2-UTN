@@ -29,6 +29,7 @@ namespace PrimerParcialBrunoDeRenzis
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmPrincipal));
             this.btnMostrar = new System.Windows.Forms.Button();
             this.rtbPersonajes = new System.Windows.Forms.RichTextBox();
             this.btnBuscar = new System.Windows.Forms.Button();
@@ -71,6 +72,7 @@ namespace PrimerParcialBrunoDeRenzis
             this.Controls.Add(this.btnBuscar);
             this.Controls.Add(this.rtbPersonajes);
             this.Controls.Add(this.btnMostrar);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmPrincipal";
             this.Text = "Bruno.de.Renzis.2°C";
             this.Load += new System.EventHandler(this.FrmPrincipal_Load);

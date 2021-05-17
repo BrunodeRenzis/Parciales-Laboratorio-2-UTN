@@ -4,3 +4,9 @@ C:\Users\Bruno de Renzis\Desktop\PrimerParcialBrunoDeRenzis\Entidades\obj\Debug\
 C:\Users\Bruno de Renzis\Desktop\PrimerParcialBrunoDeRenzis\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Bruno de Renzis\Desktop\PrimerParcialBrunoDeRenzis\Entidades\obj\Debug\Entidades.dll
 C:\Users\Bruno de Renzis\Desktop\PrimerParcialBrunoDeRenzis\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\1 Parcial\PrimerParcialBrunoDeRenzis\Entidades\bin\Debug\Entidades.dll
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\1 Parcial\PrimerParcialBrunoDeRenzis\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\1 Parcial\PrimerParcialBrunoDeRenzis\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\1 Parcial\PrimerParcialBrunoDeRenzis\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\1 Parcial\PrimerParcialBrunoDeRenzis\Entidades\obj\Debug\Entidades.dll
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\1 Parcial\PrimerParcialBrunoDeRenzis\Entidades\obj\Debug\Entidades.pdb

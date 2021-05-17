@@ -26,7 +26,8 @@ namespace Entidades
             Energia,
             InteligenciaSuperior,
             Sigilio,
-            Astucia
+            Astucia,
+            EstarBuenisima
         }
 
         public enum EEquipamiento
