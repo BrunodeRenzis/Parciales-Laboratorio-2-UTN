@@ -19,7 +19,7 @@ namespace ComiqueriaLogic
         {
             get
             {
-                foreach (Producto prod in this.productos)
+                foreach (Producto prod in productos)
                 {
                     if ((Guid)prod==codigo)
                     {
@@ -49,12 +49,14 @@ namespace ComiqueriaLogic
 
         public static Comiqueria operator +(Comiqueria comiqueria, Producto producto)
         {
-            foreach (Producto prod in comiqueria.productos)
+            if (comiqueria != producto)
             {
-                if (prod.Descripcion != producto.Descripcion)
-                    comiqueria.productos.Add(producto);
+                comiqueria.productos.Add(producto);
+                return comiqueria;
             }
-            return comiqueria;
+            else
+                return comiqueria;
+            
         }
 
         public Dictionary<Guid, string> ListarProductos()

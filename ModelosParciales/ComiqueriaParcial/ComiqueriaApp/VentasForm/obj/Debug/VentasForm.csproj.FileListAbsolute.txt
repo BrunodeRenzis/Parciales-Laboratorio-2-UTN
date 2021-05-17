@@ -8,3 +8,10 @@ C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\VentasForm\obj
 C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\VentasForm\obj\Debug\VentasForm.csproj.CoreCompileInputs.cache
 C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\VentasForm\obj\Debug\VentasForm.exe
 C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\VentasForm\obj\Debug\VentasForm.pdb
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\ComiqueriaParcial\ComiqueriaApp\VentasForm\obj\Debug\VentasForm.csprojAssemblyReference.cache
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\ComiqueriaParcial\ComiqueriaApp\VentasForm\obj\Debug\VentasForm.FormVentas.resources
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\ComiqueriaParcial\ComiqueriaApp\VentasForm\obj\Debug\VentasForm.Properties.Resources.resources
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\ComiqueriaParcial\ComiqueriaApp\VentasForm\obj\Debug\VentasForm.csproj.GenerateResource.cache
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\ComiqueriaParcial\ComiqueriaApp\VentasForm\obj\Debug\VentasForm.csproj.CoreCompileInputs.cache
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\ComiqueriaParcial\ComiqueriaApp\VentasForm\obj\Debug\VentasForm.exe
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\ComiqueriaParcial\ComiqueriaApp\VentasForm\obj\Debug\VentasForm.pdb

@@ -1,0 +1,13 @@
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\Entidades\FrmTest\bin\Debug\FrmTest.exe.config
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\Entidades\FrmTest\bin\Debug\FrmTest.exe
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\Entidades\FrmTest\bin\Debug\FrmTest.pdb
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\Entidades\FrmTest\bin\Debug\Entidades.dll
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\Entidades\FrmTest\bin\Debug\Entidades.pdb
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\Entidades\FrmTest\obj\Debug\FrmTest.csprojAssemblyReference.cache
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\Entidades\FrmTest\obj\Debug\FrmTest.FrmTester.resources
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\Entidades\FrmTest\obj\Debug\FrmTest.Properties.Resources.resources
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\Entidades\FrmTest\obj\Debug\FrmTest.csproj.GenerateResource.cache
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\Entidades\FrmTest\obj\Debug\FrmTest.csproj.CoreCompileInputs.cache
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\Entidades\FrmTest\obj\Debug\FrmTest.csproj.CopyComplete
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\Entidades\FrmTest\obj\Debug\FrmTest.exe
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\Entidades\FrmTest\obj\Debug\FrmTest.pdb

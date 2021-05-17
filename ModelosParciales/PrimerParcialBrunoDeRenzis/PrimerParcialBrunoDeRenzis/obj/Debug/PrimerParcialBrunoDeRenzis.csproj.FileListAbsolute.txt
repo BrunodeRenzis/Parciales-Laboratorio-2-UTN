@@ -1,0 +1,14 @@
+C:\Users\Bruno de Renzis\Desktop\PrimerParcialBrunoDeRenzis\PrimerParcialBrunoDeRenzis\bin\Debug\PrimerParcialBrunoDeRenzis.exe.config
+C:\Users\Bruno de Renzis\Desktop\PrimerParcialBrunoDeRenzis\PrimerParcialBrunoDeRenzis\bin\Debug\PrimerParcialBrunoDeRenzis.exe
+C:\Users\Bruno de Renzis\Desktop\PrimerParcialBrunoDeRenzis\PrimerParcialBrunoDeRenzis\bin\Debug\PrimerParcialBrunoDeRenzis.pdb
+C:\Users\Bruno de Renzis\Desktop\PrimerParcialBrunoDeRenzis\PrimerParcialBrunoDeRenzis\bin\Debug\Entidades.dll
+C:\Users\Bruno de Renzis\Desktop\PrimerParcialBrunoDeRenzis\PrimerParcialBrunoDeRenzis\bin\Debug\Entidades.pdb
+C:\Users\Bruno de Renzis\Desktop\PrimerParcialBrunoDeRenzis\PrimerParcialBrunoDeRenzis\obj\Debug\PrimerParcialBrunoDeRenzis.csprojAssemblyReference.cache
+C:\Users\Bruno de Renzis\Desktop\PrimerParcialBrunoDeRenzis\PrimerParcialBrunoDeRenzis\obj\Debug\PrimerParcialBrunoDeRenzis.FrmPrincipal.resources
+C:\Users\Bruno de Renzis\Desktop\PrimerParcialBrunoDeRenzis\PrimerParcialBrunoDeRenzis\obj\Debug\PrimerParcialBrunoDeRenzis.Properties.Resources.resources
+C:\Users\Bruno de Renzis\Desktop\PrimerParcialBrunoDeRenzis\PrimerParcialBrunoDeRenzis\obj\Debug\PrimerParcialBrunoDeRenzis.csproj.GenerateResource.cache
+C:\Users\Bruno de Renzis\Desktop\PrimerParcialBrunoDeRenzis\PrimerParcialBrunoDeRenzis\obj\Debug\PrimerParcialBrunoDeRenzis.csproj.CoreCompileInputs.cache
+C:\Users\Bruno de Renzis\Desktop\PrimerParcialBrunoDeRenzis\PrimerParcialBrunoDeRenzis\obj\Debug\PrimerParcialBrunoDeRenzis.csproj.CopyComplete
+C:\Users\Bruno de Renzis\Desktop\PrimerParcialBrunoDeRenzis\PrimerParcialBrunoDeRenzis\obj\Debug\PrimerParcialBrunoDeRenzis.exe
+C:\Users\Bruno de Renzis\Desktop\PrimerParcialBrunoDeRenzis\PrimerParcialBrunoDeRenzis\obj\Debug\PrimerParcialBrunoDeRenzis.pdb
+C:\Users\Bruno de Renzis\Desktop\PrimerParcialBrunoDeRenzis\PrimerParcialBrunoDeRenzis\obj\Debug\PrimerParcialBrunoDeRenzis.FrmBuscador.resources

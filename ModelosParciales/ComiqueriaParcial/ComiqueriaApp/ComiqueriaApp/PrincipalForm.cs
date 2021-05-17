@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
-using VentasForm;
 using ComiqueriaLogic;
 namespace ComiqueriaApp
 {
@@ -67,9 +66,12 @@ namespace ComiqueriaApp
         /// <param name="e"></param>
         private void ListBoxProductos_SelectedIndexChanged(object sender, EventArgs e)
         {
-            Guid codigoProducto = ((KeyValuePair<Guid,string>)this.listBoxProductos.SelectedItem).Key;
-            this.productoSeleccionado = this.comiqueria[codigoProducto];
-            this.richTextBoxDetalle.Text = this.productoSeleccionado.ToString();
+            if(this.listBoxProductos.SelectedIndex!=-1)
+            {
+                Guid codigoProducto = ((KeyValuePair<Guid,string>)this.listBoxProductos.SelectedItem).Key;
+                this.productoSeleccionado = this.comiqueria[codigoProducto];
+                this.richTextBoxDetalle.Text = this.productoSeleccionado.ToString();
+            }
         }
 
         /// <summary>
@@ -82,7 +84,7 @@ namespace ComiqueriaApp
             //Si el constructor tiene parámetros de entrada proporcionarle los argumentos que correspondan.
             //El campo "productoSeleccionado" contiene el producto actualmente seleccionado en el listBox de productos. 
             //El campo "comiqueria" contiene la instancia de la comiqueria que se está utilizando. 
-            Form ventasForm = new FormVentas(); 
+            Form ventasForm = new VentasForm(productoSeleccionado,comiqueria); 
             DialogResult result = ventasForm.ShowDialog(); //Agregar código para abrir ventasForm de forma MODAL
             if (result == DialogResult.OK)
             {

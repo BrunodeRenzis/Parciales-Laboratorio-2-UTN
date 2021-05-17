@@ -65,3 +65,17 @@ C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\ComiqueriaApp\
 C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CopyComplete
 C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
 C:\Users\Bruno de Renzis\Desktop\Practica 2 parcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\ComiqueriaParcial\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe.config
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\ComiqueriaParcial\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\ComiqueriaParcial\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.pdb
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\ComiqueriaParcial\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaLogic.dll
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\ComiqueriaParcial\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaLogic.pdb
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\ComiqueriaParcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csprojAssemblyReference.cache
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\ComiqueriaParcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.PrincipalForm.resources
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\ComiqueriaParcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.Properties.Resources.resources
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\ComiqueriaParcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.GenerateResource.cache
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\ComiqueriaParcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CoreCompileInputs.cache
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\ComiqueriaParcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CopyComplete
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\ComiqueriaParcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\ComiqueriaParcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb
+C:\Users\Bruno de Renzis\Desktop\Cosas sueltas\Parciales Labo\Parciales-Laboratorio-2-UTN\ModelosParciales\ComiqueriaParcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.VentasForm.resources

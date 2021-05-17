@@ -79,5 +79,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ComiqueriaLogic\ComiqueriaLogic.csproj">
+      <Project>{b86c158a-6b09-459f-ab63-099fec6ad0bd}</Project>
+      <Name>ComiqueriaLogic</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

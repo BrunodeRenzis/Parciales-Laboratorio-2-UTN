@@ -31,13 +31,14 @@ namespace VentasForm
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // FormVentas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "Form1";
+            this.Name = "FormVentas";
             this.Text = "VentasForm";
+            this.Load += new System.EventHandler(this.FormVentas_Load);
             this.ResumeLayout(false);
 
         }
